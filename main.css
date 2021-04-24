@@ -22,6 +22,7 @@
     text-align: center;
     font-size:40px;
     color:orangered;
+    height: -2px;
 }
 #overview {
     text-align: center;
@@ -36,15 +37,17 @@
 }
 
 .left-box {
-    position: static;
+    text-align: left;
     top: 500px;
     left: 25px;
     border-style: groove;
+    width: 50%;
 }
 
 .right-box {
-    position:static;
+    text-align: right;
     top: 500px;
     right: 25px;
     border-style: groove;
+    width: -50%;
 }
