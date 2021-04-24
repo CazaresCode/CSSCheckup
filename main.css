@@ -1,6 +1,11 @@
+#green-background {
+    background-color: green;
+}
+
+
 .wrapper {
     background-color: green;
-    margin: 5%;
+    margin: 3%; 
     padding-bottom: 5px;
     border: 10px double orangered;
     width: -50%;
@@ -18,9 +23,8 @@
     font-size:40px;
     color:orangered;
 }
-#overview{
+#overview {
     text-align: center;
-
     border:2px solid orangered;
     background-color: green;
     width: -50%;
