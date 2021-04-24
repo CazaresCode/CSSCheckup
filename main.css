@@ -2,6 +2,8 @@
     background-color: green;
     margin: 5%;
     padding-bottom: 5px;
+    border: 10px double orangered;
+    width: -50%;
 }
 
 #sushi {
@@ -14,16 +16,31 @@
 #dog {
     text-align: center;
     font-size:40px;
+    color:orangered;
+}
+#overview{
+    text-align: center;
+
+    border:2px solid orangered;
+    background-color: green;
+    width: -50%;
+}
+#sushi1{
+    color: whitesmoke;
+    text-align: center;
+    font-family: cursive;
 }
 
 .left-box {
-    position: fixed;
-    top: 400px;
-    left: 10px;
+    position: static;
+    top: 500px;
+    left: 25px;
+    border-style: groove;
 }
 
 .right-box {
-    position: fixed;
-    top: 400px;
-    right: 10px;
+    position:static;
+    top: 500px;
+    right: 25px;
+    border-style: groove;
 }
