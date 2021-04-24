@@ -1,0 +1,25 @@
+#wrapper {
+    background-color: green;
+    margin-top: 80px;
+    margin-right: 800px;
+    margin-bottom: 40px;
+    margin-left: 800px;
+    padding: 0px;
+}
+
+
+#sushi {
+    color: whitesmoke;
+    text-align: center;
+    font-family: cursive;
+    font-size: 100px;
+}
+
+#dog {
+    text-align: center;
+    font-size: 33px;
+    padding-bottom: 20px;
+    padding-top: -10px;
+    line-height: -10px;
+}
+
